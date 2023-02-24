@@ -1,0 +1,19 @@
+.section{
+    display: flex;
+    flex-direction: row;
+   
+}
+.container-Date{
+    margin-right: 30px;
+    margin-top: 5px;
+}
+.date{
+    font-weight: bold;
+}
+.titleSection{
+    margin-bottom: 0px;
+}
+.bodySection{
+    margin-top: 0px;
+
+}

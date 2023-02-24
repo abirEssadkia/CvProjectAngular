@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    margin-left: 2%;
+
+}
+.parentcontainer{
+    margin-top: 0%;
+   
+}
+.parentcontainer1{
+    
+    
+
+}
+.container1{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+}
+.mine{
+    background-color: rgb(255, 232, 188);
+    height: 100%;
+}
+.interest{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+}
+.cet{
+    margin-top:130px ;
+}

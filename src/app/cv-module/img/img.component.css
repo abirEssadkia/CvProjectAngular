@@ -1,0 +1,18 @@
+.image{
+    
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+
+    border:solid orange;
+    background-color: rgb(255, 232, 188);
+    transform: rotate(-45deg);
+    margin-top: 50px;
+    
+   
+}
+.Photo{
+    text-align: center;
+   
+   
+}
